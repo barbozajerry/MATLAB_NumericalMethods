@@ -3,17 +3,17 @@ Reviewing MATLAB by solving solutions from my book:  "Numerical Methods: Design,
 
 I used this book during my undergrad in Applied Mathematics at University of California, Davis. I am solving probelem from the book.  
 
-**Chapter 1: Mathematical Modeling** 
-**Chapter 2: Basic Operations with MATLAB**
-**Chapter 3: Monte Carlo Methods** 
-**Chapter 4: Solution of a Single Nonlinear Equation in One Unknown**
-**Chapter 5: Floating-Point Arithmetic** 
-**Chapter 6: Conditioning of Problems; Stability of Algorithms**
-**Chapter 7: Direct Methods for Solving Linear Systems and Least Squares Problems**
-**Chapter 8: Polynomial and Piecewise Polynomial Interpolation** 
-**Chapter 9: Numerical Differentiation and Richardson Extrapolation** 
-**Chapter 10: Numerical Integration**
-**Chapter 11: Numerical Solution of the Initial Value Problem for Ordinary Differential Equations**
+**Chapter 1: Mathematical Modeling** <br>
+**Chapter 2: Basic Operations with MATLAB** <br>
+**Chapter 3: Monte Carlo Methods** <br>
+**Chapter 4: Solution of a Single Nonlinear Equation in One Unknown** <br>
+**Chapter 5: Floating-Point Arithmetic** <br>
+**Chapter 6: Conditioning of Problems; Stability of Algorithms** <br>
+**Chapter 7: Direct Methods for Solving Linear Systems and Least Squares Problems** <br>
+**Chapter 8: Polynomial and Piecewise Polynomial Interpolation** <br>
+**Chapter 9: Numerical Differentiation and Richardson Extrapolation** <br>
+**Chapter 10: Numerical Integration** <br>
+**Chapter 11: Numerical Solution of the Initial Value Problem for Ordinary Differential Equations** <br>
 
 
 
